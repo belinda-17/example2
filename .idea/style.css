@@ -3,8 +3,13 @@
       margin-left: auto; margin-right: auto;}
 header{width: 100%; height: 5%; background-color: #567c97;border-bottom: solid #aeaaaa;}
 
-.logo{color: aliceblue;font-weight: bold;float: left;width: 10%;margin-left: 25px;margin-top: 15px;letter-spacing: 4px;}
+.logo{color: aliceblue;font-weight: bold;float: left;width: 15%;margin-left: 25px;margin-top: 15px;letter-spacing: 4px;}
 nav{float: right;margin-right: 25px;text-align: right;}
 nav ul li {float: left;text-align: left;margin-right: 25px;color: aliceblue}
 ul li a{color: aliceblue;}
 nav ul li:hover a{color: #283342}
+.home{background-image: url("imgs/icon.jpg") ;padding-top: 150px;padding-bottom: 150px; }
+.home-header{color: steelblue; text-align: center;letter-spacing: 4px;}
+.home-ex{text-align: center;color: #567c97;margin-top: 10px;}
+.about{display: inline-block; padding-left: 25px;padding-right: 25px;}
+.text-colum{float: left;width: 29%;padding-left: 20px;padding-right: 20px;}
