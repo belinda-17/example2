@@ -12,4 +12,13 @@ nav ul li:hover a{color: #283342}
 .home-header{color: steelblue; text-align: center;letter-spacing: 4px;}
 .home-ex{text-align: center;color: #567c97;margin-top: 10px;}
 .about{display: inline-block; padding-left: 25px;padding-right: 25px;}
+.about h2{margin-top: 15px;margin-left: 15px;color:#283342; }
 .text-colum{float: left;width: 29%;padding-left: 20px;padding-right: 20px;}
+.gallery{display: inline-block;width: 100%;}
+.thumbnail{width: 25%; text-align: center;float: left;margin-top: 35px;}
+.stats{color: #283342}
+.gallery .thumbnail h4{font-family: "Century Schoolbook";letter-spacing: 2px; }
+.gallery .thumbnail p{margin-top: 0px;color: #ac4c19; }
+.banner{background-image: url("imgs/icon.jpg");height: 200px;}
+.parallax{text-align:left;padding-left: 80%;}
+.description{padding-left: 80%;line-height: 23px;}
